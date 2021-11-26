@@ -5,7 +5,7 @@ Si ce n'est pas le cas vous pouvez tout simplement suivre ce petit tutoriel sur 
 
 - Lien du tutoriel Youtube : 
 <p align="center">
-<a href="https://www.youtube.com/watch?v=3B-CnezwEeo"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F28730%2Fyoutube&psig=AOvVaw1P6TD-aVyJz34TAuwprrYK&ust=1638048234411000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNCwo6z7tvQCFQAAAAAdAAAAABAN" alt="Youtube"></a>
+<a href="https://www.youtube.com/watch?v=3B-CnezwEeo"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F28730%2Fyoutube&psig=AOvVaw1P6TD-aVyJz34TAuwprrYK&ust=1638048234411000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNCwo6z7tvQCFQAAAAAdAAAAABAY" alt=""></a>
 
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
