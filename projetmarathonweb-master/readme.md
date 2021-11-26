@@ -1,7 +1,12 @@
 ## Comment tout installer correctement ?
 
-Pour pouvoir lancer le projet il faut au préalable avoir installer le package XAMPP et PHP.
-Si ce n'est pas le cas vous pouvez tout simplement suivre ce petit tutoriel sur Youtube résumant comment télécharger, installer et configuer le tout simplement. :smiley:
+Pour pouvoir lancer le projet il faudra au préalable avoir installer quelques petites chose, si vous ne les avez pas déjà c'est assez embêtant pour la suite. :confounded:
+Il vous faudra alors télécharger et installer les choses suivantes:
+
+  - PHP (télécharger la dernière version, elle fonctionnera très bien) : https://www.php.net/downloads
+  - Composer : https://getcomposer.org/download/
+  -- * une petite vidéo Youtube explicant assez rapidement comment les télécharger et installer c'est toujours pratique :wink: *
+    https://getcomposer.org/download/
 
 - Lien du tutoriel Youtube : 
 <p align="center">
