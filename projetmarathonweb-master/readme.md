@@ -1,11 +1,11 @@
 ## Comment tout installer correctement ?
 
 Pour pouvoir lancer le projet il faut au préalable avoir installer le package XAMPP et PHP.
-Si ce n'est pas le cas vous pouvez tout simplement suivre ce petit tutoriel sur Youtube résumant comment télécharger, installer et configuer le tout simplement :)
+Si ce n'est pas le cas vous pouvez tout simplement suivre ce petit tutoriel sur Youtube résumant comment télécharger, installer et configuer le tout simplement. :smiley:
 
 - Lien du tutoriel Youtube : 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=3B-CnezwEeo">Lien du tutoriel Youtubea></a>
+  <a href="https://www.youtube.com/watch?v=3B-CnezwEeo">Lien du tutoriel Youtube</a>
 </p>
 
 
