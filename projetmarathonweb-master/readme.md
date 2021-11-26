@@ -24,8 +24,15 @@ Il vous faudra alors télécharger et installer les choses suivantes:
     - Lien pour la commande d'installation: https://laravel.com/docs/8.x#the-laravel-installer
     - Dans un terminal en mode Administrateur, copier/coller la commande puis exectuter la commande `composer global require laravel/installer` 
 
+npm install
+composer install
 
+` [Composer\Exception\NoSslException]
+  The openssl extension is required for SSL/TLS protection but is not available. If you can not enable the openssl ex
+  tension, you can disable this error, at your own risk, by setting the 'disable-tls' option to true.`
+ `You must enable the openssl extension in your php.ini to load information from https://repo.packagist.org `
 
+<!-- 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
 - Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
@@ -85,3 +92,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+ -->
