@@ -21,8 +21,8 @@ Il vous faudra alors télécharger et installer les choses suivantes:
 &nbsp;
 
   - Laravel:
-  - 1. Lien pour la commande d'installation: https://laravel.com/docs/8.x#the-laravel-installer
-  - 2. Dans un terminal en mode Administrateur, copier/coller la commande puis exectuter la commande `composer global require laravel/installer` 
+    - Lien pour la commande d'installation: https://laravel.com/docs/8.x#the-laravel-installer
+    - Dans un terminal en mode Administrateur, copier/coller la commande puis exectuter la commande `composer global require laravel/installer` 
 
 
 
