@@ -1,7 +1,6 @@
 ## Comment tout installer correctement ?
 
 >Pour pouvoir lancer le projet il faudra au préalable avoir installer quelques petites chose, si vous ne les avez pas déjà c'est assez embêtant pour la suite. :confounded:.
-
 Il vous faudra alors télécharger et installer les choses suivantes:
 
   - PHP (télécharger la dernière version, elle fonctionnera très bien) : https://www.php.net/downloads
@@ -11,15 +10,14 @@ Il vous faudra alors télécharger et installer les choses suivantes:
 <p align="center">
   <a href="https://www.youtube.com/watch?v=RB2tqUqPWDw">Installer PHP et Composer</a>
 </p>
-
-
+&nbsp;
 
   - Node.js (télécharger la version correspondante à votre version de système d'exploitation): https://nodejs.org/en/download/
  
 <p align="center">
   <a href="https://www.youtube.com/watch?v=53U0TBKFwUw">Installer Node.js</a>
 </p>
-
+&nbsp;
 
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
