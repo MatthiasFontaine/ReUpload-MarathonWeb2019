@@ -1,15 +1,12 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+## Comment tout installer correctement ?
 
+Pour pouvoir lancer le projet il faut au préalable avoir installer le package XAMPP et PHP.
+Si ce n'est pas le cas vous pouvez tout simplement suivre ce petit tutoriel sur Youtube résumant comment télécharger, installer et configuer le tout simplement :)
+
+- Lien du tutoriel Youtube : 
 <p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+<a href="https://www.youtube.com/watch?v=3B-CnezwEeo"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F28730%2Fyoutube&psig=AOvVaw1P6TD-aVyJz34TAuwprrYK&ust=1638048234411000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNCwo6z7tvQCFQAAAAAdAAAAABAN" alt="Youtube"></a>
 
-## About Laravel
-
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
