@@ -7,10 +7,11 @@ Il vous faudra alors télécharger et installer les choses suivantes:
   - PHP (télécharger la dernière version, elle fonctionnera très bien) : https://www.php.net/downloads
   - Composer : https://getcomposer.org/download/
  
-*une petite vidéo Youtube explicant assez rapidement comment télécharger et installer PHP et Composer c'est toujours pratique :wink: <p align="center">
-  <a href="https://getcomposer.org/download/">Lien du tutoriel Youtube</a>
+*une petite vidéo Youtube explicant assez rapidement comment télécharger et installer PHP et Composer c'est toujours pratique :wink:*
+<p align="center">
+  <a href="https://getcomposer.org/download/">Installer PHP et Composer</a>
 </p>
-*
+
 
   - Node.js (télécharger la version correspondante à votre version de système d'exploitation) : 
 
