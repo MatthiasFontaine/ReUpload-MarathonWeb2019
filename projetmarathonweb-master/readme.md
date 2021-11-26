@@ -1,6 +1,6 @@
 ## Comment tout installer correctement ?
 
-Pour pouvoir lancer le projet il faudra au préalable avoir installer quelques petites chose, si vous ne les avez pas déjà c'est assez embêtant pour la suite. :confounded:.
+>Pour pouvoir lancer le projet il faudra au préalable avoir installer quelques petites chose, si vous ne les avez pas déjà c'est assez embêtant pour la suite. :confounded:.
 
 Il vous faudra alors télécharger et installer les choses suivantes:
 
@@ -13,11 +13,13 @@ Il vous faudra alors télécharger et installer les choses suivantes:
 </p>
 
 
+
   - Node.js (télécharger la version correspondante à votre version de système d'exploitation): https://nodejs.org/en/download/
  
 <p align="center">
   <a href="https://www.youtube.com/watch?v=53U0TBKFwUw">Installer Node.js</a>
 </p>
+
 
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
