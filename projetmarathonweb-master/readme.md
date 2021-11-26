@@ -1,6 +1,6 @@
-## Comment tout installer correctement ?
+## >Comment tout installer correctement ?
 
->Pour pouvoir lancer le projet il faudra au préalable avoir installer quelques petites chose, si vous ne les avez pas déjà c'est assez embêtant pour la suite. :confounded:.
+Pour pouvoir lancer le projet il faudra au préalable avoir installer quelques petites chose, si vous ne les avez pas déjà c'est assez embêtant pour la suite. :confounded:.
 Il vous faudra alors télécharger et installer les choses suivantes:
 
   - PHP (télécharger la dernière version, elle fonctionnera très bien) : https://www.php.net/downloads
