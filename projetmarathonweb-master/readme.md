@@ -1,7 +1,8 @@
 >## Comment tout installer correctement ?
 
+( !! Toutes commandes exécuter dans le terminal se feront en mode admin, ouvrez donc un terminal en mode Administrateur à chaque fois que vous en ouvrez un !! )
 Pour pouvoir lancer le projet il faudra au préalable avoir installer quelques petites chose, si vous ne les avez pas déjà c'est assez embêtant pour la suite. :confounded:.
-Il vous faudra alors télécharger et installer les choses suivantes:
+Il vous faudra alors télécharger et installer les choses suivantes: 
 
   - PHP (télécharger la dernière version, elle fonctionnera très bien) : https://www.php.net/downloads
   - Composer : https://getcomposer.org/download/
@@ -18,6 +19,11 @@ Il vous faudra alors télécharger et installer les choses suivantes:
   <a href="https://www.youtube.com/watch?v=53U0TBKFwUw">Installer Node.js</a>
 </p>
 &nbsp;
+
+  - Laravel:
+  - 1. Lien pour la commande d'installation: https://laravel.com/docs/8.x#the-laravel-installer
+  - 2. Dans un terminal en mode Administrateur, copier/coller la commande puis exectuter la commande `composer global require laravel/installer` 
+
 
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
